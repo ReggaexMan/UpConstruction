@@ -871,6 +871,7 @@ section {
   margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
+  
 }
 
 .projects .portfolio-flters li {
@@ -922,6 +923,7 @@ section {
   transition: all ease-in-out 0.3s;
   background: rgba(0, 0, 0, 0.6);
   padding: 15px;
+  border: 3px solid #feb900;
 }
 
 .projects .portfolio-content .portfolio-info h4 {
